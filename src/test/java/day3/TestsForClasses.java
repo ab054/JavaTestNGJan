@@ -13,6 +13,7 @@ public class TestsForClasses {
 
         objectOfPoint2.printX();
 
+
         objectOfPoint2.printY("this text came from TEST : ");
 
     }

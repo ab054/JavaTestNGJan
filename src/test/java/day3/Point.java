@@ -20,6 +20,10 @@ public class Point {
         System.out.println("field value X=" + this.x);
     }
 
+    public void printX(String string){
+        System.out.println("field value X=" + this.x +  " " + string);
+    }
+
     void printY(String textToPrint){
         System.out.println(textToPrint + this.y);
     }
